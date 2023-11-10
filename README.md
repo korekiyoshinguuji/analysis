@@ -1,2 +1,2 @@
 # analysis
-This is an example of data analysis that I have done using pandas, plot.ly and seaborn.
+This is an example of data analysis that I have done using pandas, plot.ly and seaborn. The analysis was done for our Bank of America industry project, in which I served as the data analyst. We conllated numerous surveys done on the overall quality of life of London citizens, with our aim being to find a correlation between green space (parks, etc.) and happiness. This was done in 2021.
